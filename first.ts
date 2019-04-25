@@ -17,3 +17,8 @@
 # dummy
 # dummy 2
 # dummy 3
+
+# Interactive Rebasing
+
+# Changes while rebasing
+
